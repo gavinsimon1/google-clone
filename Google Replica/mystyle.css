@@ -1,0 +1,41 @@
+#footer{
+    list-style: none;
+    text-align: center;
+}
+
+body{
+    align-content: center;
+}
+
+#nav{
+    display: flex;
+}
+
+li{
+    padding: 5px;
+}
+
+.nav-left{
+    color: red;
+    text-align: left;
+    list-style: none;
+    display: flex;
+   
+
+}
+
+.nav-right{
+    color: purple;
+    text-align: right;
+    list-style: none;
+    display: flex;
+    margin-left: 900px;
+}
+
+#google{
+    text-align: center;
+}
+
+
+
+
